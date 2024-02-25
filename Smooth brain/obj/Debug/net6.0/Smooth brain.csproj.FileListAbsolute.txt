@@ -1,0 +1,14 @@
+E:\comp sci 12\Smooth brain\obj\Debug\net6.0\Smooth brain.GeneratedMSBuildEditorConfig.editorconfig
+E:\comp sci 12\Smooth brain\obj\Debug\net6.0\Smooth brain.AssemblyInfoInputs.cache
+E:\comp sci 12\Smooth brain\obj\Debug\net6.0\Smooth brain.AssemblyInfo.cs
+E:\comp sci 12\Smooth brain\obj\Debug\net6.0\Smooth brain.csproj.CoreCompileInputs.cache
+E:\comp sci 12\Smooth brain\bin\Debug\net6.0\Smooth brain.exe
+E:\comp sci 12\Smooth brain\bin\Debug\net6.0\Smooth brain.deps.json
+E:\comp sci 12\Smooth brain\bin\Debug\net6.0\Smooth brain.runtimeconfig.json
+E:\comp sci 12\Smooth brain\bin\Debug\net6.0\Smooth brain.dll
+E:\comp sci 12\Smooth brain\bin\Debug\net6.0\Smooth brain.pdb
+E:\comp sci 12\Smooth brain\obj\Debug\net6.0\Smooth brain.dll
+E:\comp sci 12\Smooth brain\obj\Debug\net6.0\refint\Smooth brain.dll
+E:\comp sci 12\Smooth brain\obj\Debug\net6.0\Smooth brain.pdb
+E:\comp sci 12\Smooth brain\obj\Debug\net6.0\Smooth brain.genruntimeconfig.cache
+E:\comp sci 12\Smooth brain\obj\Debug\net6.0\ref\Smooth brain.dll
