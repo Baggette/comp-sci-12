@@ -1,0 +1,14 @@
+G:\comp sci 12\test stuff\bin\Debug\net6.0\test stuff.exe
+G:\comp sci 12\test stuff\bin\Debug\net6.0\test stuff.deps.json
+G:\comp sci 12\test stuff\bin\Debug\net6.0\test stuff.runtimeconfig.json
+G:\comp sci 12\test stuff\bin\Debug\net6.0\test stuff.dll
+G:\comp sci 12\test stuff\bin\Debug\net6.0\test stuff.pdb
+G:\comp sci 12\test stuff\obj\Debug\net6.0\test stuff.GeneratedMSBuildEditorConfig.editorconfig
+G:\comp sci 12\test stuff\obj\Debug\net6.0\test stuff.AssemblyInfoInputs.cache
+G:\comp sci 12\test stuff\obj\Debug\net6.0\test stuff.AssemblyInfo.cs
+G:\comp sci 12\test stuff\obj\Debug\net6.0\test stuff.csproj.CoreCompileInputs.cache
+G:\comp sci 12\test stuff\obj\Debug\net6.0\test stuff.dll
+G:\comp sci 12\test stuff\obj\Debug\net6.0\refint\test stuff.dll
+G:\comp sci 12\test stuff\obj\Debug\net6.0\test stuff.pdb
+G:\comp sci 12\test stuff\obj\Debug\net6.0\test stuff.genruntimeconfig.cache
+G:\comp sci 12\test stuff\obj\Debug\net6.0\ref\test stuff.dll
