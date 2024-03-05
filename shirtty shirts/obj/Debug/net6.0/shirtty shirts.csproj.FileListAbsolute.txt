@@ -1,0 +1,14 @@
+G:\comp sci 12\shirtty shirts\bin\Debug\net6.0\shirtty shirts.exe
+G:\comp sci 12\shirtty shirts\bin\Debug\net6.0\shirtty shirts.deps.json
+G:\comp sci 12\shirtty shirts\bin\Debug\net6.0\shirtty shirts.runtimeconfig.json
+G:\comp sci 12\shirtty shirts\bin\Debug\net6.0\shirtty shirts.dll
+G:\comp sci 12\shirtty shirts\bin\Debug\net6.0\shirtty shirts.pdb
+G:\comp sci 12\shirtty shirts\obj\Debug\net6.0\shirtty shirts.GeneratedMSBuildEditorConfig.editorconfig
+G:\comp sci 12\shirtty shirts\obj\Debug\net6.0\shirtty shirts.AssemblyInfoInputs.cache
+G:\comp sci 12\shirtty shirts\obj\Debug\net6.0\shirtty shirts.AssemblyInfo.cs
+G:\comp sci 12\shirtty shirts\obj\Debug\net6.0\shirtty shirts.csproj.CoreCompileInputs.cache
+G:\comp sci 12\shirtty shirts\obj\Debug\net6.0\shirtty shirts.dll
+G:\comp sci 12\shirtty shirts\obj\Debug\net6.0\refint\shirtty shirts.dll
+G:\comp sci 12\shirtty shirts\obj\Debug\net6.0\shirtty shirts.pdb
+G:\comp sci 12\shirtty shirts\obj\Debug\net6.0\shirtty shirts.genruntimeconfig.cache
+G:\comp sci 12\shirtty shirts\obj\Debug\net6.0\ref\shirtty shirts.dll

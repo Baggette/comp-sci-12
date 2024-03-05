@@ -1,0 +1,14 @@
+G:\comp sci 12\multi methods\bin\Debug\net6.0\multi methods.exe
+G:\comp sci 12\multi methods\bin\Debug\net6.0\multi methods.deps.json
+G:\comp sci 12\multi methods\bin\Debug\net6.0\multi methods.runtimeconfig.json
+G:\comp sci 12\multi methods\bin\Debug\net6.0\multi methods.dll
+G:\comp sci 12\multi methods\bin\Debug\net6.0\multi methods.pdb
+G:\comp sci 12\multi methods\obj\Debug\net6.0\multi methods.GeneratedMSBuildEditorConfig.editorconfig
+G:\comp sci 12\multi methods\obj\Debug\net6.0\multi methods.AssemblyInfoInputs.cache
+G:\comp sci 12\multi methods\obj\Debug\net6.0\multi methods.AssemblyInfo.cs
+G:\comp sci 12\multi methods\obj\Debug\net6.0\multi methods.csproj.CoreCompileInputs.cache
+G:\comp sci 12\multi methods\obj\Debug\net6.0\multi methods.dll
+G:\comp sci 12\multi methods\obj\Debug\net6.0\refint\multi methods.dll
+G:\comp sci 12\multi methods\obj\Debug\net6.0\multi methods.pdb
+G:\comp sci 12\multi methods\obj\Debug\net6.0\multi methods.genruntimeconfig.cache
+G:\comp sci 12\multi methods\obj\Debug\net6.0\ref\multi methods.dll

@@ -1,0 +1,14 @@
+G:\comp sci 12\classobjects\bin\Debug\net6.0\classobjects.exe
+G:\comp sci 12\classobjects\bin\Debug\net6.0\classobjects.deps.json
+G:\comp sci 12\classobjects\bin\Debug\net6.0\classobjects.runtimeconfig.json
+G:\comp sci 12\classobjects\bin\Debug\net6.0\classobjects.dll
+G:\comp sci 12\classobjects\bin\Debug\net6.0\classobjects.pdb
+G:\comp sci 12\classobjects\obj\Debug\net6.0\classobjects.GeneratedMSBuildEditorConfig.editorconfig
+G:\comp sci 12\classobjects\obj\Debug\net6.0\classobjects.AssemblyInfoInputs.cache
+G:\comp sci 12\classobjects\obj\Debug\net6.0\classobjects.AssemblyInfo.cs
+G:\comp sci 12\classobjects\obj\Debug\net6.0\classobjects.csproj.CoreCompileInputs.cache
+G:\comp sci 12\classobjects\obj\Debug\net6.0\classobjects.dll
+G:\comp sci 12\classobjects\obj\Debug\net6.0\refint\classobjects.dll
+G:\comp sci 12\classobjects\obj\Debug\net6.0\classobjects.pdb
+G:\comp sci 12\classobjects\obj\Debug\net6.0\classobjects.genruntimeconfig.cache
+G:\comp sci 12\classobjects\obj\Debug\net6.0\ref\classobjects.dll

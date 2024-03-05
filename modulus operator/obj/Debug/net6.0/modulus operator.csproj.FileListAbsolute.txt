@@ -1,0 +1,14 @@
+G:\comp sci 12\modulus operator\bin\Debug\net6.0\modulus operator.exe
+G:\comp sci 12\modulus operator\bin\Debug\net6.0\modulus operator.deps.json
+G:\comp sci 12\modulus operator\bin\Debug\net6.0\modulus operator.runtimeconfig.json
+G:\comp sci 12\modulus operator\bin\Debug\net6.0\modulus operator.dll
+G:\comp sci 12\modulus operator\bin\Debug\net6.0\modulus operator.pdb
+G:\comp sci 12\modulus operator\obj\Debug\net6.0\modulus operator.GeneratedMSBuildEditorConfig.editorconfig
+G:\comp sci 12\modulus operator\obj\Debug\net6.0\modulus operator.AssemblyInfoInputs.cache
+G:\comp sci 12\modulus operator\obj\Debug\net6.0\modulus operator.AssemblyInfo.cs
+G:\comp sci 12\modulus operator\obj\Debug\net6.0\modulus operator.csproj.CoreCompileInputs.cache
+G:\comp sci 12\modulus operator\obj\Debug\net6.0\modulus operator.dll
+G:\comp sci 12\modulus operator\obj\Debug\net6.0\refint\modulus operator.dll
+G:\comp sci 12\modulus operator\obj\Debug\net6.0\modulus operator.pdb
+G:\comp sci 12\modulus operator\obj\Debug\net6.0\modulus operator.genruntimeconfig.cache
+G:\comp sci 12\modulus operator\obj\Debug\net6.0\ref\modulus operator.dll
