@@ -12,3 +12,17 @@ G:\comp sci 12\shirtty shirts\obj\Debug\net6.0\refint\shirtty shirts.dll
 G:\comp sci 12\shirtty shirts\obj\Debug\net6.0\shirtty shirts.pdb
 G:\comp sci 12\shirtty shirts\obj\Debug\net6.0\shirtty shirts.genruntimeconfig.cache
 G:\comp sci 12\shirtty shirts\obj\Debug\net6.0\ref\shirtty shirts.dll
+E:\comp sci 12\shirtty shirts\bin\Debug\net6.0\shirtty shirts.exe
+E:\comp sci 12\shirtty shirts\bin\Debug\net6.0\shirtty shirts.deps.json
+E:\comp sci 12\shirtty shirts\bin\Debug\net6.0\shirtty shirts.runtimeconfig.json
+E:\comp sci 12\shirtty shirts\bin\Debug\net6.0\shirtty shirts.dll
+E:\comp sci 12\shirtty shirts\bin\Debug\net6.0\shirtty shirts.pdb
+E:\comp sci 12\shirtty shirts\obj\Debug\net6.0\shirtty shirts.GeneratedMSBuildEditorConfig.editorconfig
+E:\comp sci 12\shirtty shirts\obj\Debug\net6.0\shirtty shirts.AssemblyInfoInputs.cache
+E:\comp sci 12\shirtty shirts\obj\Debug\net6.0\shirtty shirts.AssemblyInfo.cs
+E:\comp sci 12\shirtty shirts\obj\Debug\net6.0\shirtty shirts.csproj.CoreCompileInputs.cache
+E:\comp sci 12\shirtty shirts\obj\Debug\net6.0\shirtty shirts.dll
+E:\comp sci 12\shirtty shirts\obj\Debug\net6.0\refint\shirtty shirts.dll
+E:\comp sci 12\shirtty shirts\obj\Debug\net6.0\shirtty shirts.pdb
+E:\comp sci 12\shirtty shirts\obj\Debug\net6.0\shirtty shirts.genruntimeconfig.cache
+E:\comp sci 12\shirtty shirts\obj\Debug\net6.0\ref\shirtty shirts.dll

@@ -19,6 +19,10 @@ namespace classobjects
             _colour = colour;
             Console.WriteLine($"{_name} Created");
         }
+        public void SetName(string name)
+        {
+            _name = name;
+        }
         public void Drive()
         {
             Console.WriteLine($"{_name} is driving");
