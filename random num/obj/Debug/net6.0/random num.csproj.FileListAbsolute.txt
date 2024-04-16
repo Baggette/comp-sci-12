@@ -1,0 +1,14 @@
+G:\comp sci 12\random num\bin\Debug\net6.0\random num.exe
+G:\comp sci 12\random num\bin\Debug\net6.0\random num.deps.json
+G:\comp sci 12\random num\bin\Debug\net6.0\random num.runtimeconfig.json
+G:\comp sci 12\random num\bin\Debug\net6.0\random num.dll
+G:\comp sci 12\random num\bin\Debug\net6.0\random num.pdb
+G:\comp sci 12\random num\obj\Debug\net6.0\random num.GeneratedMSBuildEditorConfig.editorconfig
+G:\comp sci 12\random num\obj\Debug\net6.0\random num.AssemblyInfoInputs.cache
+G:\comp sci 12\random num\obj\Debug\net6.0\random num.AssemblyInfo.cs
+G:\comp sci 12\random num\obj\Debug\net6.0\random num.csproj.CoreCompileInputs.cache
+G:\comp sci 12\random num\obj\Debug\net6.0\random num.dll
+G:\comp sci 12\random num\obj\Debug\net6.0\refint\random num.dll
+G:\comp sci 12\random num\obj\Debug\net6.0\random num.pdb
+G:\comp sci 12\random num\obj\Debug\net6.0\random num.genruntimeconfig.cache
+G:\comp sci 12\random num\obj\Debug\net6.0\ref\random num.dll

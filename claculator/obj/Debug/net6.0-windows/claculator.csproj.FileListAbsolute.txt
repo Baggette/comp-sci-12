@@ -1,0 +1,16 @@
+G:\comp sci 12\claculator\bin\Debug\net6.0-windows\claculator.exe
+G:\comp sci 12\claculator\bin\Debug\net6.0-windows\claculator.deps.json
+G:\comp sci 12\claculator\bin\Debug\net6.0-windows\claculator.runtimeconfig.json
+G:\comp sci 12\claculator\bin\Debug\net6.0-windows\claculator.dll
+G:\comp sci 12\claculator\bin\Debug\net6.0-windows\claculator.pdb
+G:\comp sci 12\claculator\obj\Debug\net6.0-windows\claculator.Form1.resources
+G:\comp sci 12\claculator\obj\Debug\net6.0-windows\claculator.csproj.GenerateResource.cache
+G:\comp sci 12\claculator\obj\Debug\net6.0-windows\claculator.GeneratedMSBuildEditorConfig.editorconfig
+G:\comp sci 12\claculator\obj\Debug\net6.0-windows\claculator.AssemblyInfoInputs.cache
+G:\comp sci 12\claculator\obj\Debug\net6.0-windows\claculator.AssemblyInfo.cs
+G:\comp sci 12\claculator\obj\Debug\net6.0-windows\claculator.csproj.CoreCompileInputs.cache
+G:\comp sci 12\claculator\obj\Debug\net6.0-windows\claculator.dll
+G:\comp sci 12\claculator\obj\Debug\net6.0-windows\refint\claculator.dll
+G:\comp sci 12\claculator\obj\Debug\net6.0-windows\claculator.pdb
+G:\comp sci 12\claculator\obj\Debug\net6.0-windows\claculator.genruntimeconfig.cache
+G:\comp sci 12\claculator\obj\Debug\net6.0-windows\ref\claculator.dll
