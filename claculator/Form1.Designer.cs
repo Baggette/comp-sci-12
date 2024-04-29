@@ -163,7 +163,7 @@
             button12.TabIndex = 11;
             button12.Text = "=";
             button12.UseVisualStyleBackColor = false;
-            button12.Click += btn_Click;
+            button12.Click += btn_equals;
             // 
             // button13
             // 
@@ -218,6 +218,7 @@
             button19.TabIndex = 18;
             button19.Text = "CE";
             button19.UseVisualStyleBackColor = false;
+            button19.Click += btn_clear_last;
             // 
             // button20
             // 
@@ -228,6 +229,7 @@
             button20.TabIndex = 19;
             button20.Text = "C";
             button20.UseVisualStyleBackColor = false;
+            button20.Click += btn_clear;
             // 
             // button1
             // 

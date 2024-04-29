@@ -1,0 +1,37 @@
+E:\comp sci 12\webapi test\bin\Debug\net6.0\webapi test.exe
+E:\comp sci 12\webapi test\bin\Debug\net6.0\webapi test.deps.json
+E:\comp sci 12\webapi test\bin\Debug\net6.0\webapi test.runtimeconfig.json
+E:\comp sci 12\webapi test\bin\Debug\net6.0\webapi test.dll
+E:\comp sci 12\webapi test\bin\Debug\net6.0\webapi test.pdb
+E:\comp sci 12\webapi test\obj\Debug\net6.0\webapi test.GeneratedMSBuildEditorConfig.editorconfig
+E:\comp sci 12\webapi test\obj\Debug\net6.0\webapi test.AssemblyInfoInputs.cache
+E:\comp sci 12\webapi test\obj\Debug\net6.0\webapi test.AssemblyInfo.cs
+E:\comp sci 12\webapi test\obj\Debug\net6.0\webapi test.csproj.CoreCompileInputs.cache
+E:\comp sci 12\webapi test\obj\Debug\net6.0\webapi test.dll
+E:\comp sci 12\webapi test\obj\Debug\net6.0\refint\webapi test.dll
+E:\comp sci 12\webapi test\obj\Debug\net6.0\webapi test.pdb
+E:\comp sci 12\webapi test\obj\Debug\net6.0\webapi test.genruntimeconfig.cache
+E:\comp sci 12\webapi test\obj\Debug\net6.0\ref\webapi test.dll
+G:\comp sci 12\webapi test\bin\Debug\net6.0\webapi test.exe
+G:\comp sci 12\webapi test\bin\Debug\net6.0\webapi test.deps.json
+G:\comp sci 12\webapi test\bin\Debug\net6.0\webapi test.runtimeconfig.json
+G:\comp sci 12\webapi test\bin\Debug\net6.0\webapi test.dll
+G:\comp sci 12\webapi test\bin\Debug\net6.0\webapi test.pdb
+G:\comp sci 12\webapi test\obj\Debug\net6.0\webapi test.GeneratedMSBuildEditorConfig.editorconfig
+G:\comp sci 12\webapi test\obj\Debug\net6.0\webapi test.AssemblyInfoInputs.cache
+G:\comp sci 12\webapi test\obj\Debug\net6.0\webapi test.AssemblyInfo.cs
+G:\comp sci 12\webapi test\obj\Debug\net6.0\webapi test.csproj.CoreCompileInputs.cache
+G:\comp sci 12\webapi test\obj\Debug\net6.0\webapi test.dll
+G:\comp sci 12\webapi test\obj\Debug\net6.0\refint\webapi test.dll
+G:\comp sci 12\webapi test\obj\Debug\net6.0\webapi test.pdb
+G:\comp sci 12\webapi test\obj\Debug\net6.0\webapi test.genruntimeconfig.cache
+G:\comp sci 12\webapi test\obj\Debug\net6.0\ref\webapi test.dll
+G:\comp sci 12\webapi test\obj\Debug\net6.0\webapi test.sourcelink.json
+G:\comp sci 12\webapi test\bin\Debug\net6.0\System.Web.Extensions.dll
+G:\comp sci 12\webapi test\bin\Debug\net6.0\System.Web.Abstractions.dll
+G:\comp sci 12\webapi test\bin\Debug\net6.0\System.Data.Linq.dll
+G:\comp sci 12\webapi test\bin\Debug\net6.0\System.Data.Services.Client.dll
+G:\comp sci 12\webapi test\bin\Debug\net6.0\System.Data.Services.Design.dll
+G:\comp sci 12\webapi test\bin\Debug\net6.0\System.Data.Entity.dll
+G:\comp sci 12\webapi test\obj\Debug\net6.0\webapi test.csproj.AssemblyReference.cache
+G:\comp sci 12\webapi test\obj\Debug\net6.0\webapi t.DC561B73.Up2Date

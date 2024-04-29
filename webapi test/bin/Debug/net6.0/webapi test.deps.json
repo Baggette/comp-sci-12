@@ -1,0 +1,104 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "webapi test/1.0.0": {
+        "dependencies": {
+          "System.Web.Extensions": "3.5.0.0"
+        },
+        "runtime": {
+          "webapi test.dll": {}
+        }
+      },
+      "System.Web.Extensions/3.5.0.0": {
+        "runtime": {
+          "System.Web.Extensions.dll": {
+            "assemblyVersion": "3.5.0.0",
+            "fileVersion": "3.5.30729.9161"
+          }
+        }
+      },
+      "System.Web.Abstractions/3.5.0.0": {
+        "runtime": {
+          "System.Web.Abstractions.dll": {
+            "assemblyVersion": "3.5.0.0",
+            "fileVersion": "3.5.30729.9141"
+          }
+        }
+      },
+      "System.Data.Linq/3.5.0.0": {
+        "runtime": {
+          "System.Data.Linq.dll": {
+            "assemblyVersion": "3.5.0.0",
+            "fileVersion": "3.5.30729.9141"
+          }
+        }
+      },
+      "System.Data.Services.Client/3.5.0.0": {
+        "runtime": {
+          "System.Data.Services.Client.dll": {
+            "assemblyVersion": "3.5.0.0",
+            "fileVersion": "3.5.30729.9141"
+          }
+        }
+      },
+      "System.Data.Services.Design/3.5.0.0": {
+        "runtime": {
+          "System.Data.Services.Design.dll": {
+            "assemblyVersion": "3.5.0.0",
+            "fileVersion": "3.5.30729.9141"
+          }
+        }
+      },
+      "System.Data.Entity/3.5.0.0": {
+        "runtime": {
+          "System.Data.Entity.dll": {
+            "assemblyVersion": "3.5.0.0",
+            "fileVersion": "3.5.30729.9141"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "webapi test/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Web.Extensions/3.5.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Web.Abstractions/3.5.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Data.Linq/3.5.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Data.Services.Client/3.5.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Data.Services.Design/3.5.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Data.Entity/3.5.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("claculator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b77bab9569d4212a6f587e6bca2886f16f8e037b")]
 [assembly: System.Reflection.AssemblyProductAttribute("claculator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("claculator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
